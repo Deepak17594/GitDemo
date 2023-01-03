@@ -16,4 +16,4 @@ public class even {
  
         System.out.println(arr[no%2]);
     }
-}
+}//updates have been done in even no also by american guy
