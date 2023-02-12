@@ -23,3 +23,5 @@ public class CustomerLoginTest extends BaseTest{
 
 }
 .//Customer login is updated using git  command to github account
+	
+	//Customer updated from githib account
